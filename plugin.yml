@@ -1,0 +1,6 @@
+name: BossBar
+version: 1.0.0
+api: 1.12.0
+main: BossBar\Main
+description: BossBar plugin for Steadfast2
+load: POSTWORLD
